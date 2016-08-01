@@ -1,0 +1,19 @@
+{
+  "name": "cf-cms-plugins/cf-articles-connections",
+  "authors": [
+    {
+      "name": "SiteOrigin Widgets Bundle",
+      "email": "SiteOriginWidgetsBundle@example.com"
+    }
+  ],
+  "version": "0.1",
+  "autoload": {
+    "psr-4": {
+      "SiteOriginWidgetsBundle\\Plugins\\": ""
+    }
+  },
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
+}
